@@ -31,4 +31,4 @@ After cloning or checking out the repo on further step is needed to pull in the 
 
 To tell Arduino IDE to use the libraries in `emonpi/firmware/libraries` we need to set the **Arduino IDE Sketchbook location** to `*<localpath>*/emonpi/firmware` then restart the Arduino IDE.
 
-On compiling check that Arduino is used the correct library, turn on *preferances>Show verbose output during compilation* and see log message at the beginning of compilation showing lib path. You might need to remove any lib you have sharing the same name in your Arduino sketchbook folder.
+On compiling check that Arduino is used the correct library, turn on *preferences>Show verbose output during compilation* and see log message at the beginning of compilation showing lib path. You might need to remove any lib you have sharing the same name in your Arduino sketchbook folder.
